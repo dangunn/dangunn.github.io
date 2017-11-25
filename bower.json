@@ -1,0 +1,25 @@
+{
+  "name": "danielgunn.github.io",
+  "homepage": "https://danielgunn.github.io",
+  "authors": [
+    "Daniel Gunn <dangunn@qq.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "html5shiv": "^3.7.3",
+    "respond": "^1.4.2"
+  }
+}
