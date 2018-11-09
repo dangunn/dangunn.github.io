@@ -238,7 +238,10 @@ CONTACT
 /*******************************************
 SKILLS
 *******************************************/
-.item-skills{
+.item-skills a {
+  color: #fff;
+}
+.item-skills {
   height: 30px;
   background: #328cc1;
   color: #fff;
